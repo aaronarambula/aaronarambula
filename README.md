@@ -2,7 +2,7 @@
 
 ### 🚀 A passionate Python & AI developer
 
-- 🔭 Currently building **Neura** — a mobile app that uses AI to predict migraine risk for chronic migraine patients.
+- 🔭 Currently building **Neura**, a mobile app that uses AI to predict migraine risk for chronic migraine patients.
 - 🌱 Learning **Neural Networks, Deep Learning, and DSA**.
 - 👯 Open to collaborating on:
   - Full-stack or mobile projects
