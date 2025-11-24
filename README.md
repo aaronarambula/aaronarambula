@@ -5,7 +5,7 @@
 - 🔭 Currently building **Neura**, a mobile app that uses AI to predict migraine risk for chronic migraine patients. https://www.neura.lat/
 - 🌱 Learning **Neural Networks, Deep Learning, and DSA**.
 - 👯 Open to collaborating on:
-  - Full-stack or mobile projects
+  - Mobile Development
   - ML experiments on public datasets
   - Anything that builds real-world engineering skills
 - 🤝 Looking for help with **anything under the AI umbrella + full-stack dev**.
