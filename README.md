@@ -12,8 +12,6 @@
 - 💬 Ask me about **AI applications to real-world problems**.
 - 📫 Reach me at **aaronarambula2007@icloud.com**
 - ⚡ Fun fact: **I build things before I’m “qualified.” That’s how I get qualified.**
-- 👨‍💻 My projects: **https://portfolioaaronarambula.netlify.app/**
-- 📝 My writing: **https://aaronarambula.notion.site**
 
 ---
 
