@@ -27,9 +27,6 @@
   <a href="https://codeforces.com/profile/sxntrer" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="30"/>
   </a>
-  <a href="https://leetcode.com/aaronarambula" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30"/>
-  </a>
 </p>
 
 ---
