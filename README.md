@@ -10,7 +10,6 @@ Also built **[Neura](https://www.neura.lat/)** - AI-powered migraine prediction 
 
 ---
 
-**Currently:** Optimizing ResNet-18 training speed (Week 1)  
 **Learning:** Neural network optimization, CUDA, performance engineering  
 **Contact:** aaronarambula2007@icloud.com | [@aaronarambulav](https://twitter.com/aaronarambulav)
 
