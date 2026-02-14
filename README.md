@@ -4,7 +4,7 @@
 
 ---
 
-Building **[AaronNet](https://github.com/yourusername/aaronnet)** - training neural networks faster than PyTorch through aggressive optimization.
+Building **[AaronNet](https://github.com/aaronarambula/aaronnet)** - training neural networks faster than PyTorch through aggressive optimization.
 
 Also built **[Neura](https://www.neura.lat/)** - AI-powered migraine prediction app. - Currently in closed beta testing.
 
