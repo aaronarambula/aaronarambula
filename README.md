@@ -1,16 +1,19 @@
-## Hi there 👋
+# Aaron Arambula
 
-<!--
-**aaronarambula/aaronarambula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18 • CS @ ASU • Making AI faster
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building **[AaronNet](https://github.com/yourusername/aaronnet)** - training neural networks faster than PyTorch through aggressive optimization.
+
+Also built **[Neura](https://www.neura.lat/)** - AI-powered migraine prediction app. - Currently in closed beta testing.
+
+---
+
+**Currently:** Optimizing ResNet-18 training speed (Week 1)  
+**Learning:** Neural network optimization, CUDA, performance engineering  
+**Contact:** aaronarambula2007@icloud.com | [@aaronarambulav](https://twitter.com/aaronarambulav)
+
+---
+
+*I build things before I'm qualified. That's how I get qualified.*
