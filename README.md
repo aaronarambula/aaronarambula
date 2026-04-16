@@ -1,17 +1,20 @@
 # Aaron Arambula
-
-18 • CS @ ASU • Making AI faster
-
----
-
-Building **[AaronNet](https://github.com/aaronarambula/aaronnet)** - training neural networks faster than PyTorch through aggressive optimization.
-
-Also built **[Neura](https://www.neura.lat/)** - AI-powered migraine prediction app. - Currently in closed beta testing.
+18 · CS @ ASU · building low-level ML systems
 
 ---
 
-**Learning:** Neural network optimization, CUDA, performance engineering  
-**Contact:** aaronarambula2007@icloud.com | [@aaronarambulav](https://twitter.com/aaronarambulav)
+**Now:** [aaronnet](https://github.com/aaronarambula/aaronnet) — autograd engine in pure Python, no C extensions. Benchmarked against PyTorch on small CPU workloads (numbers in the repo). Lower-level rewrite in progress.
+
+---
+
+**Shipped:**
+- [**Neura**](https://www.neura.lat/) — hybrid ML model for migraine prediction. Closed beta.
+- [**Smart glasses**](https://github.com/aaronarambula/smart-glasses) — obstacle detection for visually impaired users. Raspberry Pi 4, TF-Luna LiDAR, Kalman filtering, GPT-4o for scene description.
+- **EEG-based brain age prediction** — [preprint](https://doi.org/10.31234/osf.io/3wvcy_v1) under Dr. Erik Sakk. Ongoing; scaling to a larger dataset once compute is in place.
+
+---
+
+**Reach me:** [email](mailto:aaronarambula2007@icloud.com) · [twitter](https://twitter.com/aaronarambulav)
 
 ---
 
